@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+body {
+  background-color: #eeeeee;
+}
+
+.container {
+  background: url("../images/eugene.png");
+  background-color: #333333;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: 350px 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1000px;
+  min-height: 100vh;
+}
+
+header {
+  margin: 10% 10% 2rem 10%;
+}
+
+header h1 {
+  color: #eeeeee;
+  font-family: "Abril Fatface";
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+header p {
+  color: #eeeeee;
+  font-family: "Raleway";
+  font-size: 1.2rem;
+  line-height: 2rem;
+  max-width: 600px;
+}
+
+header p:not(:last-child) {
+  margin-bottom: 1rem;
+}
+
+nav {
+  align-items: flex-start;
+  border-left: 1px solid #cccccc;
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 10% 10%;
+}
+
+nav a {
+  color: #cccccc;
+  display: inline-block;
+  font-family: "Raleway";
+  margin: 0 0 1rem 1rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #eeeeee;
+}
+
+nav a:first-child {
+  margin-top: 1rem;
+}
