@@ -29,6 +29,8 @@
   name = "CV"
   url = "/cv.pdf"
   weight = 40
+  [main.params]
+    target = "_blank"
 
 # [[main]]
 #   name = "Blog"
