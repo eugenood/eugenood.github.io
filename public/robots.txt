@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://probable-space-barnacle-vqxxqg6x56hxppr-1313.app.github.dev/sitemap.xml
