@@ -1,3 +1,7 @@
+---
+title: "Publications"
+---
+
 # Publications
 
 **Fairness in Repeated Matching: A Maximin Perspective**\
