@@ -18,7 +18,7 @@ Kaiqi Chen, <u>Eugene Lim</u>, Kelvin Lin, Yiyang Chen, Harold Soh\
 
 **Observed Adversaries in Deep Reinforcement Learning**\
 <u>Eugene Lim</u>, Harold Soh\
-*AAAI Fall Symposium Series, Artificial Intelligence for Human-Robot Interaction, 2022*
+*AAAI Fall Symposium Series, Artificial Intelligence for Human-Robot Interaction, 2022*\
 [Paper](https://arxiv.org/abs/2210.06787)&ensp;[Code](https://github.com/clear-nus/observersary)
 
 **Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects**\
