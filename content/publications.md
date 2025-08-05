@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-# Publications
-
 **Fairness in Repeated Matching: A Maximin Perspective**\
 <u>Eugene Lim</u>, Tzeh Yuan Neoh, Nicholas Teh\
 *Under Review, 2025*
