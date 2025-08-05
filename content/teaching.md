@@ -1,6 +1,6 @@
 # Teaching
 
-I enjoy teaching and find it rewarding to help students grow and succeed. I’ve been fortunate to receive the *NUS SoC Honor List of Student Tutors* awards for 2020/2021 and 2023/2024, as well as the *NUS SoC Teaching Fellowship* for 2023/2024 and 2025/2026. Below is a record of my teaching experiences
+I enjoy teaching and find it rewarding to help students grow and succeed. I’ve been fortunate to receive the *NUS SoC Honor List of Student Tutors* awards for 2020/2021 and 2023/2024, as well as the *NUS SoC Teaching Fellowship* for 2023/2024 and 2025/2026. Below is an overview of my teaching experiences.
 
 #### CS5340: Uncertainty Modelling in AI
 [2023/2024, Semester 2](https://drive.google.com/file/d/1qbZTRNzPQOUYhkI0B4W8KF2ugWpxEqHz/view)
