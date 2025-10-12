@@ -4,7 +4,7 @@ title: "Publications"
 
 **Welfare Guarantees of EFX Allocations with Few Items**\
 <u>Eugene Lim</u>, Tzeh Yuan Neoh, Nicholas Teh\
-*Under Review, 2025*\
+*Under Review, 2025*
 
 **Fairness in Repeated Matching with Bandit Feedback**\
 <u>Eugene Lim</u>, Nicholas Teh, Tzeh Yuan Neoh, Harold Soh\
