@@ -12,7 +12,7 @@ title: "Publications"
 
 **Fairness in Repeated Matching: A Maximin Perspective**\
 <u>Eugene Lim</u>, Tzeh Yuan Neoh, Nicholas Teh\
-*Under Review, 2025*\
+*40th AAAI Conference on Artificial Intelligence (AAAI), 2026*\
 [Paper](https://www.arxiv.org/abs/2510.04624)
 
 **Stochastic Bandits for Egalitarian Assignment**\
