@@ -16,3 +16,6 @@ I enjoy teaching and find it rewarding to help students grow and succeed. I’ve
 <a href="/teaching/cs3244-212203.pdf" target="_blank">2021/2022, Special Term</a> (Score: 4.4)\
 <a href="/teaching/cs3244-202101.pdf" target="_blank">2020/2021, Semester 1</a> (Score: 4.8)\
 <a href="/teaching/cs3244-192001.pdf" target="_blank">2019/2020, Semester 1</a> (Score: 4.5)
+
+#### CS1010A: Programming Methodology 
+<a href="/teaching/cs1010a-252601.pdf" target="_blank">2025/2026, Semester 1</a> (Score 4.8)
