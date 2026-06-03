@@ -12,6 +12,7 @@ I enjoy teaching and find it rewarding to help students grow and succeed. I’ve
 <a href="/teaching/cs3264-232401.pdf" target="_blank">2023/2024, Semester 1</a> (Score: 4.9)
 
 #### CS3244: Machine Learning
+<a href="/teaching/cs3244-252602.pdf" target="_blank">2025/2026, Semester 2</a> (Score 4.6)\
 <a href="/teaching/cs3244-222303.pdf" target="_blank">2022/2023, Special Term</a> (Score: 4.4)\
 <a href="/teaching/cs3244-212203.pdf" target="_blank">2021/2022, Special Term</a> (Score: 4.4)\
 <a href="/teaching/cs3244-202101.pdf" target="_blank">2020/2021, Semester 1</a> (Score: 4.8)\

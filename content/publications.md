@@ -6,7 +6,7 @@ title: "Publications"
 <u>Eugene Lim</u>, Tzeh Yuan Neoh, Nicholas Teh\
 *Working Paper*
 
-**Fairness in Repeated Matching with Bandit Feedback**\
+**Fair and Efficient Allocation of Tiered Resources with Semi-Bandit Feedback**\
 <u>Eugene Lim</u>, Nicholas Teh, Tzeh Yuan Neoh, Harold Soh\
 *Working Paper*
 
